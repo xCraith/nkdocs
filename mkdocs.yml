@@ -14,6 +14,7 @@ nav:
       - "character.md"
       - "skinlib.md"
       - "capture.md"
+      - "clothingstore.md"
     - "Hooks":
         - "Filler"
     - "SQL Library":
