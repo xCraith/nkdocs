@@ -12,6 +12,7 @@ nav:
       - "rank.md"
       - "cartel.md"
       - "character.md"
+      - "skinlib.md"
     - "Hooks":
         - "Filler"
     - "SQL Library":
