@@ -12,7 +12,6 @@ nav:
       - "rank.md"
       - "cartel.md"
       - "character.md"
-      - "skinlib.md"
       - "capture.md"
       - "clothingstore.md"
       - "crafting.md"
@@ -25,6 +24,9 @@ nav:
       - "title.md"
       - "trainingzones.md"
       - "thirdperson.md"
+    - "UI":
+      - "skinlib.md"
+      - "custom_frames.md"
     - "Hooks":
         - "charsys_hooks.md"
     - "SQL Library":

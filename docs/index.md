@@ -1,6 +1,6 @@
 # Welcome to NK Docs
 
 
-## Nico hat nen geilen Arsch
+## Complete Gamemode Documentation
 
-irgendso eine Startpage
+Hier findest du sämtliche custom Funktionen und Hooks
