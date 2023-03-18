@@ -4,6 +4,10 @@
 
 ## Clientside Functions
 
+!!! tip "Informatioenen"
+
+    Um diese Lib in-game zu verwenden, benutze einfach SKIN(x,y,w,h,color).
+
 ##### SKIN Lib
 
 ```lua

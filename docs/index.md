@@ -3,4 +3,7 @@
 
 ## Complete Gamemode Documentation
 
-Hier findest du sämtliche custom Funktionen und Hooks
+!!! tip "Informatioenen"
+
+    Hier findest du sämtliche custom Funktionen und Hooks.
+    Diese Funktionen sind fester Bestandteil des JvS - RP Gamemode von NK und darf nur von diesen verwendet werden.
