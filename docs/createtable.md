@@ -22,7 +22,7 @@ DB:GetTable(tablename,database)
 
 ------------
 
-###### Example
+## Example
 ```lua
     DB:CreateTable("Whitelist")
     :AddSteamID()

@@ -27,7 +27,7 @@ DB:GetTable(tablename,database)
 
 ------------
 
-###### Example
+## Example
 ```lua
 local items = DB:GetTable("AuktionsMarkt"):Where("Category",cat):Init()
 
