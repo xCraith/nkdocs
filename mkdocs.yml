@@ -13,6 +13,7 @@ nav:
       - "cartel.md"
       - "character.md"
       - "skinlib.md"
+      - "capture.md"
     - "Hooks":
         - "Filler"
     - "SQL Library":
