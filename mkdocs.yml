@@ -11,10 +11,15 @@ nav:
       - "name.md"
       - "rank.md"
       - "cartel.md"
+      - "character.md"
+      - "skinlib.md"
+      - "capture.md"
     - "Hooks":
         - "Filler"
     - "SQL Library":
-        - "Test"
+        - "registerdb.md"
+        - "createtable.md"
+        - "gettable.md"
 
 theme:
   features:
