@@ -10,6 +10,7 @@ nav:
       - "job.md"
       - "name.md"
       - "rank.md"
+      - "cartel.md"
     - "Hooks":
         - "Filler"
     - "SQL Library":
