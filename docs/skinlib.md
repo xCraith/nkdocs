@@ -4,7 +4,7 @@
 
 ## Clientside Functions
 
-!!! tip "Informatioenen"
+!!! tip "Informationen"
 
     Um diese Lib in-game zu verwenden, benutze einfach SKIN(x,y,w,h,color).
 

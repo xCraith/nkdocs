@@ -4,7 +4,7 @@
 
 ## Clientside Functions
 
-!!! tip "Informatioenen"
+!!! tip "Informationen"
 
     Hier findest du sämtliche custom Frames welche im Gamemode enthalten sind.
 
