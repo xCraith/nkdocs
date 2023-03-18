@@ -15,6 +15,16 @@ nav:
       - "skinlib.md"
       - "capture.md"
       - "clothingstore.md"
+      - "crafting.md"
+      - "holocron.md"
+      - "kgjsys.md"
+      - "post.md"
+      - "meetsystem.md"
+      - "shiphacking.md"
+      - "squad.md"
+      - "title.md"
+      - "trainingzones.md"
+      - "thirdperson.md"
     - "Hooks":
         - "Filler"
     - "SQL Library":
