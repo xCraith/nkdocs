@@ -33,6 +33,8 @@ nav:
         - "registerdb.md"
         - "createtable.md"
         - "gettable.md"
+    - "Webhook Library":
+        - "webhooklib.md"
 
 theme:
   features:
