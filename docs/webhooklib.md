@@ -4,7 +4,7 @@
 
 ## Serverside Functions
 
-##### Post Discord Webooks
+##### Post Discord WebHooks
 
 ## Arguments
 
