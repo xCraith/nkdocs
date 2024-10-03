@@ -1,4 +1,4 @@
-# Register DB
+# Discord Webhook
 
 ------------
 
