@@ -16,9 +16,12 @@
 | `player`                     | active player                                    |
 | `target`                     | passive player                                   |
 | `image`                      | image url with .png                              |
-| `color`                      | color hexcode (dont use letters)                 |
+| `decimalColor`               | color decimalcode                                |
 | `webHook`                    | webHook url                                      |
-
+ 
 ```lua
-WEBHOOK.DiscordLog( title, msg, logname, player, target, image, color, webHook )
+local hexColor = "COLORCODE"
+local decimalColor = tonumber(hexColor, 16)
+
+WEBHOOK.DiscordLog( title, msg, logname, player, target, image, decimalColor, webHook )
 ```
