@@ -16,6 +16,12 @@ nav:
       - "Donator":
         - "cartel.md"
         - "kgjsys.md"
+      - "Player":
+          - "namechange.md"
+          - "fakeident.md"
+          - "squad.md"
+          - "title.md"
+          - "meetsystem.md"
       - "Other":
         - "achievements.md"
         - "announces.md"
@@ -23,13 +29,9 @@ nav:
         - "clothingstore.md"
         - "crafting.md"
         - "event.md"
-        - "fakeident.md"
         - "holocron.md"
         - "post.md"
-        - "meetsystem.md"
         - "shiphacking.md"
-        - "squad.md"
-        - "title.md"
         - "trainingzones.md"
     - "UI":
       - "skinlib.md"
