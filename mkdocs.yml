@@ -4,36 +4,40 @@ site_name: NK Docs
 nav:
   - Home: index.md
   - "Gamemode":
-    - "Functions":
+    - "Base":
+      - "character.md"
       - "chat.md"
-      - "money.md"
       - "job.md"
+      - "money.md"
       - "name.md"
       - "rank.md"
-      - "cartel.md"
-      - "character.md"
-      - "capture.md"
-      - "clothingstore.md"
-      - "crafting.md"
-      - "holocron.md"
-      - "kgjsys.md"
-      - "post.md"
-      - "meetsystem.md"
-      - "shiphacking.md"
-      - "squad.md"
-      - "title.md"
-      - "trainingzones.md"
       - "thirdperson.md"
+    - "Modules":
+      - "Donator":
+        - "cartel.md"
+        - "kgjsys.md"
+      - "Other":
+        - "capture.md"
+        - "clothingstore.md"
+        - "crafting.md"
+        - "holocron.md"
+        - "post.md"
+        - "meetsystem.md"
+        - "shiphacking.md"
+        - "squad.md"
+        - "title.md"
+        - "trainingzones.md"
     - "UI":
       - "skinlib.md"
       - "custom_frames.md"
     - "Hooks":
         - "charsys_hooks.md"
-    - "SQL Library":
+    - "Libaries":
+      - "SQL":
         - "registerdb.md"
         - "createtable.md"
         - "gettable.md"
-    - "Webhook Library":
+      - "Webhooks":
         - "webhooklib.md"
 
 theme:
