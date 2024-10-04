@@ -4,45 +4,37 @@ site_name: NK Docs
 nav:
   - Home: index.md
   - "Gamemode":
-    - "Core":
-      - "Functions":
+    - "Functions":
       - "chat.md"
       - "money.md"
       - "job.md"
       - "name.md"
       - "rank.md"
+      - "cartel.md"
       - "character.md"
+      - "capture.md"
+      - "clothingstore.md"
+      - "crafting.md"
+      - "holocron.md"
+      - "kgjsys.md"
+      - "post.md"
+      - "meetsystem.md"
+      - "shiphacking.md"
+      - "squad.md"
+      - "title.md"
+      - "trainingzones.md"
       - "thirdperson.md"
-    - "Modules":
-      - "Functions":
-        - "Shops":
-          - "clothingstore.md"
-        - "Donator":
-          - "cartel.md"
-          - "kgjsys.md"
-        - "Player":
-          - "squad.md"
-          - "title.md"
-          - "trainingzones.md"
-          - "crafting.md"
-          - "post.md"
-          - "meetsystem.md"
-        - "Other":
-          - "holocron.md"
-          - "capture.md"
-          - "shiphacking.md"
-  - "UI":
-    - "skinlib.md"
-    - "custom_frames.md"
-  - "Hooks":
-    - "charsys_hooks.md"
-  - "Libaries":
-    - "SQL":
-      - "registerdb.md"
-      - "createtable.md"
-      - "gettable.md"
-    - "Webhooks":
-      - "webhooklib.md"
+    - "UI":
+      - "skinlib.md"
+      - "custom_frames.md"
+    - "Hooks":
+        - "charsys_hooks.md"
+    - "SQL Library":
+        - "registerdb.md"
+        - "createtable.md"
+        - "gettable.md"
+    - "Webhook Library":
+        - "webhooklib.md"
 
 theme:
   features:
