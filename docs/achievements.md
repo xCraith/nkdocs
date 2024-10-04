@@ -4,25 +4,25 @@
 
 ## Server Side Functions
 
-##### Gets Players Character info
+##### Get Player Achievement Table
 
 ```lua
 PLAYER:GetAchievements() -- Returns all Player Achievements as table
 ```
 
-##### Gets Players CharID
+##### Give Player an Achievement
 
 ```lua
 PLAYER:GiveAchievement(achievementName)
 ```
 
-##### Gets Players CharID
+##### Revoke Player an Achievement
 
 ```lua
 PLAYER:RemoveAchievement(achievementName)
 ```
 
-##### Gets Players CharID
+##### Check Player Achievement
 
 ```lua
 PLAYER:HasAchievement(achievementName) -- returns true or false
