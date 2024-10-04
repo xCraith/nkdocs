@@ -4,8 +4,8 @@ site_name: NK Docs
 nav:
   - Home: index.md
   - "Gamemode":
-   - "Core":
-    - "Functions":
+    - "Core":
+      - "Functions":
       - "chat.md"
       - "money.md"
       - "job.md"
@@ -13,36 +13,36 @@ nav:
       - "rank.md"
       - "character.md"
       - "thirdperson.md"
-   - "Modules":
-    - "Functions":
-     - "Shops":
-      - "clothingstore.md"
-    - "Donator":
-      - "cartel.md"
-      - "kgjsys.md"
-    - "Player":
-      - "squad.md"
-      - "title.md"
-      - "trainingzones.md"
-      - "crafting.md"
-      - "post.md"
-      - "meetsystem.md"
-    - "Other:"
-      - "holocron.md"
-      - "capture.md"
-      - "shiphacking.md"
-    - "UI":
-      - "skinlib.md"
-      - "custom_frames.md"
-    - "Hooks":
-        - "charsys_hooks.md"
-    - "Libaries":
-     - "SQL":
-        - "registerdb.md"
-        - "createtable.md"
-        - "gettable.md"
-     - "Webhooks":
-        - "webhooklib.md"
+    - "Modules":
+      - "Functions":
+        - "Shops":
+          - "clothingstore.md"
+        - "Donator":
+          - "cartel.md"
+          - "kgjsys.md"
+        - "Player":
+          - "squad.md"
+          - "title.md"
+          - "trainingzones.md"
+          - "crafting.md"
+          - "post.md"
+          - "meetsystem.md"
+        - "Other:"
+          - "holocron.md"
+          - "capture.md"
+          - "shiphacking.md"
+  - "UI":
+    - "skinlib.md"
+    - "custom_frames.md"
+  - "Hooks":
+    - "charsys_hooks.md"
+  - "Libaries":
+    - "SQL":
+      - "registerdb.md"
+      - "createtable.md"
+      - "gettable.md"
+    - "Webhooks":
+      - "webhooklib.md"
 
 theme:
   features:
