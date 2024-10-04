@@ -4,36 +4,44 @@ site_name: NK Docs
 nav:
   - Home: index.md
   - "Gamemode":
+   - "Core":
     - "Functions":
       - "chat.md"
       - "money.md"
       - "job.md"
       - "name.md"
       - "rank.md"
-      - "cartel.md"
       - "character.md"
-      - "capture.md"
+      - "thirdperson.md"
+   - "Modules":
+    - "Functions":
+     - "Shops":
       - "clothingstore.md"
-      - "crafting.md"
-      - "holocron.md"
+    - "Donator":
+      - "cartel.md"
       - "kgjsys.md"
-      - "post.md"
-      - "meetsystem.md"
-      - "shiphacking.md"
+    - "Player":
       - "squad.md"
       - "title.md"
       - "trainingzones.md"
-      - "thirdperson.md"
+      - "crafting.md"
+      - "post.md"
+      - "meetsystem.md"
+    - "Other:"
+      - "holocron.md"
+      - "capture.md"
+      - "shiphacking.md"
     - "UI":
       - "skinlib.md"
       - "custom_frames.md"
     - "Hooks":
         - "charsys_hooks.md"
-    - "SQL Library":
+    - "Libaries":
+     - "SQL":
         - "registerdb.md"
         - "createtable.md"
         - "gettable.md"
-    - "Webhook Library":
+     - "Webhooks":
         - "webhooklib.md"
 
 theme:
@@ -68,4 +76,5 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
