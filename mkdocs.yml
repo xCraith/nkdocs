@@ -38,6 +38,8 @@ nav:
       - "custom_frames.md"
     - "Hooks":
         - "charsys_hooks.md"
+    - "Convars":
+      - "hud_convar.md"
     - "Libaries":
       - "SQL":
         - "registerdb.md"
