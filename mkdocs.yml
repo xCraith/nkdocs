@@ -27,7 +27,7 @@ nav:
           - "crafting.md"
           - "post.md"
           - "meetsystem.md"
-        - "Other:"
+        - "Other":
           - "holocron.md"
           - "capture.md"
           - "shiphacking.md"
