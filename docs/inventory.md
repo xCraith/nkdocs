@@ -41,7 +41,7 @@ PLAYER:RemoveInvItem(itemName) -- returns false if player hasn't the specific it
 PLAYER:GetInvItemCount(itemName) -- returns count as int
 ```
 
-##### You can set counts for the following funcs with [itemname].count
+#### You can set counts for the following funcs with [itemname].count
 ##### Checks if Player has a list of items 
 
 ```lua
